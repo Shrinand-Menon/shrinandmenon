@@ -1,55 +1,73 @@
 # 👋 Hi, I'm Shrinand Menon
 
-🎓 CS + Business Systems @ RIT | 
-🧠 I design systems that balance code, flow, and intelligence.
+🎓 CS + Business Systems @ RIT  
+🧠 I build interfaces and intelligence that solve grounded problems.
 
-I combine no-code automation and GPT where it's efficient — and write code when it's essential.  
-My focus: building **scalable, intelligent systems** that solve real-world problems and deliver insights.
-
----
-
-## 🧩 Current Focus: Sentiment Pulseboard (WIP)
-
-A hybrid feedback analysis system:
-- No-code intake & automation (Google Forms, Zapier, GPT)
-- Structured storage (Airtable or Notion)
-- Clean insight dashboards (Framer/Typedream)
-- Code-based customization when logic or data shaping requires it
-
-🎯 Learning Themes: Prompt Design · Flow Architecture · Insight Visualization · Selective Coding
+I’m focused on designing **clean UIs** and building **machine learning models** that perform under constraint — whether it's offline environments, handwritten inputs, or embedded systems. My goal is to craft **useful, real-world applications** that work where they’re needed most.
 
 ---
 
-## 🛠️ Technical Stack
+## 🧠 Current Focus: Interface + Intelligence
 
-**No-Code Tools**: `Zapier` `Airtable` `Framer` `Typedream`  
-**Code**: `Python` `JavaScript` `SQL` `Markdown`  
-**AI + Data**: `GPT-4` `Google Vision API` `BERT`  
-**Workflow**: `GitHub` `Obsidian (Offline)` `GitHub Actions`
+I care less about automation and more about **clarity and capability**.  
+Every project I build starts with two questions:
 
----
-
-## 📌 Highlight Projects (Live/WIP)
-
-- **Sentiment Pulseboard** – Insight engine for feedback analysis (GPT + dashboards)  
-- **Answer Sheet Evaluator** – NLP + Vision-based semantic scoring system  
-- **Project Journal** – Offline logs with Git-based changelogs (WIP)  
-- **IEEE Ops Automator** – Event workflow automation (Planned)
+- _Can this run simply and clearly?_  
+- _Will this actually help someone in the real world?_
 
 ---
 
-## 🧭 Philosophy
+## 🚧 Active Projects
 
-- Use **no-code when it accelerates clarity**  
-- Use **code when it’s the sharpest tool**  
-- Think in systems. Build for outcomes.
+### 🔐 Insight Ledger – *AI-Powered E-Passbook App*  
+> A secure, intuitive passbook application for real-time and offline financial tracking.
 
----
-
-## 🔗 Connect
-
-📂 [GitHub Projects](https://github.com/shrinandmenon)  
+- 📲 **Adaptive UI** using `React`, `TypeScript`, `Tailwind`  
+- 🧠 **Client-side encryption** with `CryptoJS`  
+- 📦 Offline-capable using `IndexedDB`  
+- 🛠️ Future: Transaction classification and visual analytics  
 
 ---
 
-> “Tools are means. Insight is the goal.”
+### ⚡ EV HUD – *Driving Feedback Dashboard*  
+> A heads-up display prototype to visualize driving efficiency and energy data in EVs.
+
+- 🚘 Inputs from OBD-II, GPS, CAN Bus  
+- 📊 Real-time visualization of regen, acceleration, and consumption  
+- 📱 Mobile-first dashboard (Phase I), Raspberry Pi (Phase II)  
+- 🎯 Designed for behavioral feedback and energy savings  
+
+---
+
+### 📄 AI Answer Evaluator – *Vision + BERT Scoring Pipeline*  
+> A complete academic grading pipeline from image to semantic evaluation.
+
+- 🔍 Text extraction using `Google Vision API`  
+- 🧬 Semantic matching with `BERT` embeddings  
+- 🎯 Custom scoring logic for exam-style evaluation  
+- 🌐 Roadmap: Layout-aware extraction, multilingual grading, feedback UI  
+
+---
+
+## 🛠️ Core Stack
+
+**Frontend/UI**: `React` `TypeScript` `Tailwind CSS` `Lucide`  
+**ML/AI**: `Python` `BERT` `Google Vision API` `HuggingFace`  
+**Data**: `Pandas` `NumPy` `SQL` `IndexedDB`  
+**Workflow**: `GitHub` `Obsidian` `GitHub Actions`
+
+---
+
+## 💡 Approach
+
+- **Design matters** — Clarity in interface equals clarity in thinking.  
+- **Usefulness over novelty** — I prioritize models and UIs that make someone's job easier.  
+- **Deploy under constraints** — My builds are meant to *run where the cloud can’t*.  
+
+---
+
+## 🔗 Let’s Connect
+
+📂 [GitHub Projects](https://github.com/shrinandmenon)
+
+> “A good model is one that works quietly in the background — and leaves clarity in its wake.”
